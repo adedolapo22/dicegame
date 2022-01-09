@@ -27,5 +27,5 @@ if(randomNumber>randomFigure){
     document.querySelector("h1").innerText = "Draw"
 }
 
-abcde
+
 
