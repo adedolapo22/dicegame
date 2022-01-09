@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+.container{
+    display: flex;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 25%;
+}
+
+.dice{
+    display: inline-block;
+}
+.dice img{
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
